@@ -18,8 +18,8 @@ public class Main {
         System.out.println();
 
         staff.sellItem(sm, 101, 20);
-        staff.sellItem(sm, 103, 8);
-        staff.sellItem(sm, 102, 25);
+        staff.sellItem(sm, 103, 8);   // drops below threshold -> alert
+        staff.sellItem(sm, 102, 25);  // drops below threshold -> alert
         System.out.println();
 
         staff.receiveStock(sm, 103, 30);
