@@ -10,6 +10,8 @@ A Java-based platform that monitors ration stock levels and generates automated 
 
 **Guide:** Ms.Mahalakshmi
 
+**Live Demo:** https://kit2824bee059-vidhya.github.io/inventoryproject/
+
 ## Team
 
 | Name | Roll No. |
