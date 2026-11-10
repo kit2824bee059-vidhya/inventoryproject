@@ -2,10 +2,10 @@
 
 A Java-based platform that monitors ration stock levels and generates automated low-stock alerts for public distribution shops.
 
-**Course:** Object-Oriented Programming in Java (Final Review)
+**Course:** Object-Oriented Programming in Java 
 **Department:** Electrical and Electronics Engineering
 **Institution:** Kalaignarkarunanidhi Institute of Technology
-**Guide:** [Guide Name]
+**Guide:** Ms.Mahalakshmi
 
 ## Team
 
